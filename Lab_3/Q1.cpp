@@ -23,7 +23,7 @@ int main() {
     
     Student *ptr = &s1;
 
-    ptr->setData(101, "Ekansh");   
+    ptr->setData(367, "Ekansh");   
     (*ptr).display();                 
 
     return 0;

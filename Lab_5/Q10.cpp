@@ -34,6 +34,6 @@ public:
 
 int main() {
     TeachingAssistant ta;
-    ta.setData("Abhi", "Patiala", 101, 202);
+    ta.setData("Ekansh", "Faridabad", 101, 202);
     ta.display();
 }

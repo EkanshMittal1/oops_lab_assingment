@@ -40,8 +40,8 @@ int main() {
     Student s;
     Teacher t;
 
-    s.setStudent("Abhi", "S1", 10);
-    t.setTeacher("Sir", "T1", "CS");
+    s.setStudent("Ekansh", "S1", 10);
+    t.setTeacher("Mittal", "T1", "OOPS");
 
     s.display();
     t.display();
